@@ -26,6 +26,15 @@ An interactive Power BI dashboard created to analyze coffee shop sales performan
 
 ![Coffee Shop Sales Dashboard](Dashboard.png.png)
 
+## Key Insights
+
+- Analyzed overall sales, orders, and quantity sold.
+- Compared weekday and weekend sales performance.
+- Analyzed sales across different store locations.
+- Identified product-level sales patterns.
+- Examined sales trends by day and hour.
+- Compared monthly performance with the previous month.
+  
 ## Project Files
 
 - CF.pbix – Power BI report
