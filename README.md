@@ -24,7 +24,7 @@ An interactive Power BI dashboard created to analyze coffee shop sales performan
 
 ## Dashboard Preview
 
-![Coffee Shop Sales Dashboard](Dashboard.png)
+![Coffee Shop Sales Dashboard](Dashboard.png.png)
 
 ## Project Files
 
